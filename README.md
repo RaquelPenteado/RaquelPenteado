@@ -4,6 +4,7 @@
 - 🌱 Estudando Desenvolvimento Web
 - 😄 Pronomes: ela/dela
 
+
  <div>
   <a href="https://github.com/RaquelPenteado">
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RaquelPenteado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
@@ -14,6 +15,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
      <img align="right" width="200px" alt="Rafa-yoda" src="https://i.picasion.com/pic91/556babe6d20983d658ebcf90ef9e839b.gif">
 </div>  
   

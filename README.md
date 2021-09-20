@@ -1,8 +1,8 @@
 ### Olá, sou a Raquel Penteado!
 
-- 🔭 Hoje sou uma estudante em busca de estágios
+
 - 🌱 Estudando Desenvolvimento Web
-- 😄 Pronomes: ela/dela
+- 😄 Cursando: Ciência da Computação
 
 
  <div>

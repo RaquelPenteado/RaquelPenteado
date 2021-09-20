@@ -3,7 +3,7 @@
 
 - 🌱 Estudando Desenvolvimento Web
 - 😄 Cursando: Ciência da Computação
-- <br>
+<br>
 
 
  <div>

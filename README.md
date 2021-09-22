@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando Desenvolvimento Web
-- 😄 Cursando: Ciência da Computação
+- 😄 Cursando Ciência da Computação
 <br>
 
 

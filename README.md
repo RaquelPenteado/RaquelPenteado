@@ -1,8 +1,8 @@
 ### Olá, sou a Raquel Penteado!
 
 
-- 🌱 Estudando Desenvolvimento Web
-- 😄 Cursando Ciência da Computação
+- 🎨 Estudando UI UX Design
+- 💻 Formada em Ciência da Computação
 <br>
 
 
